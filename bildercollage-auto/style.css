@@ -40,7 +40,7 @@ h1,h2,p,a{
     
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1900px) {
     img{
         width:98%;
         text-align: center;
@@ -48,9 +48,9 @@ h1,h2,p,a{
     }
   }
 
-  @media screen and (min-width: 1600px) {
+  @media screen and (min-width: 1200px) {
     img{
-        width:25%;
+        width:50%;
         padding:2%;
     }
   }
