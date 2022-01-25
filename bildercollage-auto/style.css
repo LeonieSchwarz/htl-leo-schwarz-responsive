@@ -42,7 +42,7 @@ h1,h2,p,a{
 
 @media screen and (max-width: 1400px) {
     img{
-        width:100%;
+        width:96%;
         padding:2%;
     }
   }
