@@ -39,3 +39,9 @@ h1,h2,p,a{
     margin-top: 5%;
     
 }
+@media screen and (max-width: 800px) {
+    img{
+        width:100%;
+        padding:2%;
+    }
+  }
