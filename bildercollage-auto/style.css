@@ -42,14 +42,10 @@ h1,h2,p,a{
 
 @media screen and (max-width: 1400px) {
     img{
-        width:96%;
+        width:98%;
+        text-align: center;
         padding:2%;
     }
   }
 
-  @media screen and (min-width: 1600px) {
-    img{
-        width:25%;
-        padding:2%;
-    }
-  }
+ 
